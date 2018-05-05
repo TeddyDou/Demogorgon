@@ -1,1 +1,1 @@
-# Demogorgon
+# Information Retrieval Project
